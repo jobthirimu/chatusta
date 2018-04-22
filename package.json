@@ -1,0 +1,23 @@
+{
+  "name": "chatusta",
+  "version": "1.0.0",
+  "description": "a simple chatbot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paganmonk/chatusta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paganmonk/chatusta/issues"
+  },
+  "homepage": "https://github.com/paganmonk/chatusta#readme",
+  "dependencies": {
+    "messenger-bot": "^2.4.0"
+  }
+}
